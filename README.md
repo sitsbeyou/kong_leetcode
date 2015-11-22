@@ -1,0 +1,2 @@
+# kong_leetcode
+主要利用python解决leetcode的问题
